@@ -1,0 +1,1 @@
+nationstates>=2.0
